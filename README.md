@@ -69,12 +69,4 @@ Submit a pull request (PR) describing your changes concisely.
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact us:
-
-Email: dinogrow@​yahoo.com
-
-Twitter: @DIN0GR0W
-
 We hope you enjoy DINOGROW, and we hope this project inspires others to create mobile SOLANA blockchain games. Have fun playing and developing!
